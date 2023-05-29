@@ -14,8 +14,6 @@ public class SpringCloudConfigServerApplication {
 		SpringApplication.run(SpringCloudConfigServerApplication.class, args);
 	}
 	
-	/* Configuración:
-	 * - Es servidor Spring Cloud Config
-	 */
-
+	
+	/*Las instrcciónes de configuracion  del proyecto se encuentran en tus notas de tus cursos :D*/
 }
